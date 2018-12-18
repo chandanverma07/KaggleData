@@ -1,0 +1,9 @@
+U.S.. economic data 1976 to 1987 
+X1 = dollars/barrel crude oil
+X2 = % interest on ten yr. U.S. treasury notes
+X3 = foreign investments/billions of dollars
+X4 = Dow Jones industrial average
+X5 = GNP/billions of dollars
+X6 = purchasing power U.S. dollar (1983 base)
+X7 = consumer debt/billions of dollars
+Reference: Statistical Abstract of the United States 103rd and 109th ediiton
